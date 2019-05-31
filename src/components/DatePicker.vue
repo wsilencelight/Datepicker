@@ -1,14 +1,13 @@
 <template>
-  <div>
-    <router-view/>
-  </div>
+  <div>datepicker</div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'DatePicker'
 }
 </script>
 
 <style>
+
 </style>
