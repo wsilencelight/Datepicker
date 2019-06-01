@@ -21,3 +21,6 @@ npm run build --report
 ```
 npm install stylus/stylus-loader --save
 ```
+
+## DatePicker.vue
+- 这个组件就是成果啦,直接把文件放到别的项目中就可以使用
